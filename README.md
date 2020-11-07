@@ -18,3 +18,11 @@
 
 **node.js**: https://nodejs.org/en/
 
+## 目前已集成工具
+
+**elasticsearch**
+
+**celery**
+
+**redis**
+
